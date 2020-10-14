@@ -1,0 +1,702 @@
+Exporter version: 6.4.5, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\ndory\Desktop\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of node:  SketchUp
+	processing begun of camera (UniversalCamera):  skp_camera_Last_Saved_SketchUp_View
+	processing begun of mesh:  completo
+		processing begun of material:  material
+		num positions      :  3774
+		num normals        :  3774
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3914
+	processing begun of mesh:  instance_0.001
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.002
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.003
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.004
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.005
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.006
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.007
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.008
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.009
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.010
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.011
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.012
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.013
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.014
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.015
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.016
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.017
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.018
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.019
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.020
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.021
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.022
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.023
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.024
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.025
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.026
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  56
+		num normals        :  56
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.027
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.028
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.029
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.030
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.031
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.032
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.033
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.034
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.035
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.036
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.037
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.038
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.039
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.040
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.041
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.042
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.043
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.044
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.045
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.046
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.047
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.048
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.049
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.050
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.051
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.052
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.053
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.054
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.055
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.056
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of mesh:  instance_0.057
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.058
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.059
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.060
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  52
+		num normals        :  52
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:  instance_0.061
+		processing begun of material:  material
+		registered as also a user of material:  material
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  52
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  completo
+	writing mesh:  instance_0.001
+	writing mesh:  instance_0.002
+	writing mesh:  instance_0.003
+	writing mesh:  instance_0.004
+	writing mesh:  instance_0.005
+	writing mesh:  instance_0.006
+	writing mesh:  instance_0.007
+	writing mesh:  instance_0.008
+	writing mesh:  instance_0.009
+	writing mesh:  instance_0.010
+	writing mesh:  instance_0.011
+	writing mesh:  instance_0.012
+	writing mesh:  instance_0.013
+	writing mesh:  instance_0.014
+	writing mesh:  instance_0.015
+	writing mesh:  instance_0.016
+	writing mesh:  instance_0.017
+	writing mesh:  instance_0.018
+	writing mesh:  instance_0.019
+	writing mesh:  instance_0.020
+	writing mesh:  instance_0.021
+	writing mesh:  instance_0.022
+	writing mesh:  instance_0.023
+	writing mesh:  instance_0.024
+	writing mesh:  instance_0.025
+	writing mesh:  instance_0.026
+	writing mesh:  instance_0.027
+	writing mesh:  instance_0.028
+	writing mesh:  instance_0.029
+	writing mesh:  instance_0.030
+	writing mesh:  instance_0.031
+	writing mesh:  instance_0.032
+	writing mesh:  instance_0.033
+	writing mesh:  instance_0.034
+	writing mesh:  instance_0.035
+	writing mesh:  instance_0.036
+	writing mesh:  instance_0.037
+	writing mesh:  instance_0.038
+	writing mesh:  instance_0.039
+	writing mesh:  instance_0.040
+	writing mesh:  instance_0.041
+	writing mesh:  instance_0.042
+	writing mesh:  instance_0.043
+	writing mesh:  instance_0.044
+	writing mesh:  instance_0.045
+	writing mesh:  instance_0.046
+	writing mesh:  instance_0.047
+	writing mesh:  instance_0.048
+	writing mesh:  instance_0.049
+	writing mesh:  instance_0.050
+	writing mesh:  instance_0.051
+	writing mesh:  instance_0.052
+	writing mesh:  instance_0.053
+	writing mesh:  instance_0.054
+	writing mesh:  instance_0.055
+	writing mesh:  instance_0.056
+	writing mesh:  instance_0.057
+	writing mesh:  instance_0.058
+	writing mesh:  instance_0.059
+	writing mesh:  instance_0.060
+	writing mesh:  instance_0.061
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.431 secs

@@ -1,0 +1,1746 @@
+Exporter version: 6.4.5, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\ndory\Desktop\Nueva carpeta\ARETE3D\public\
+	Python World class constructor completed
+	processing begun of mesh:  Ghidon2
+		processing begun of material:  Material__6
+		num positions      :  12685
+		num normals        :  12685
+		num tangents       :  0
+		num uvs            :  25370
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5147
+	processing begun of mesh:  ZaExterior09
+		processing begun of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior13
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1910
+		num normals        :  1910
+		num tangents       :  0
+		num uvs            :  3820
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  ZaInterior50
+		processing begun of material:  wire_196196196
+		num positions      :  2130
+		num normals        :  2130
+		num tangents       :  0
+		num uvs            :  4260
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaInterior45
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2148
+		num normals        :  2148
+		num tangents       :  0
+		num uvs            :  4296
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  MecPedDr
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  46
+		num normals        :  46
+		num tangents       :  0
+		num uvs            :  92
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  ZaInterior40
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2151
+		num normals        :  2151
+		num tangents       :  0
+		num uvs            :  4302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior05
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1847
+		num normals        :  1847
+		num tangents       :  0
+		num uvs            :  3694
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  800
+	processing begun of mesh:  SurubJos
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  247
+		num normals        :  247
+		num tangents       :  0
+		num uvs            :  494
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of mesh:  ZaExterior01
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  BidonGalben
+		processing begun of material:  wire_220176000
+		num positions      :  2525
+		num normals        :  2525
+		num tangents       :  0
+		num uvs            :  5050
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1000
+	processing begun of mesh:  ZaInterior19
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2178
+		num normals        :  2178
+		num tangents       :  0
+		num uvs            :  4356
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  SurubSus
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  533
+		num normals        :  533
+		num tangents       :  0
+		num uvs            :  1066
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  216
+	processing begun of mesh:  ZaExterior41
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1885
+		num normals        :  1885
+		num tangents       :  0
+		num uvs            :  3770
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  SabotSpateD
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1591
+		num normals        :  1591
+		num tangents       :  0
+		num uvs            :  3182
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  648
+	processing begun of mesh:  ZaInterior41
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2165
+		num normals        :  2165
+		num tangents       :  0
+		num uvs            :  4330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  ZaInterior12
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2154
+		num normals        :  2154
+		num tangents       :  0
+		num uvs            :  4308
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  Sa
+		processing begun of material:  Material__6
+		registered as also a user of material:  Material__6
+		num positions      :  2606
+		num normals        :  2606
+		num tangents       :  0
+		num uvs            :  5212
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1009
+	processing begun of mesh:  ZaInterior43
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2158
+		num normals        :  2158
+		num tangents       :  0
+		num uvs            :  4316
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  Cadru1
+		processing begun of material:  wire_131000000
+		num positions      :  10005
+		num normals        :  10005
+		num tangents       :  0
+		num uvs            :  20010
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4277
+	processing begun of mesh:  ZaExterior22
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1908
+		num normals        :  1908
+		num tangents       :  0
+		num uvs            :  3816
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  CapacBRosu
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1916
+		num normals        :  1916
+		num tangents       :  0
+		num uvs            :  3832
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  800
+	processing begun of mesh:  CabluPinioaneF
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1891
+		num normals        :  1891
+		num tangents       :  0
+		num uvs            :  3782
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  756
+	processing begun of mesh:  ZaInterior17
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2149
+		num normals        :  2149
+		num tangents       :  0
+		num uvs            :  4298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaInterior34
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2165
+		num normals        :  2165
+		num tangents       :  0
+		num uvs            :  4330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  FranaFata
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  6295
+		num normals        :  6295
+		num tangents       :  0
+		num uvs            :  12590
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2621
+	processing begun of mesh:  ZaInterior13
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2144
+		num normals        :  2144
+		num tangents       :  0
+		num uvs            :  4288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaExterior
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaInterior49
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2180
+		num normals        :  2180
+		num tangents       :  0
+		num uvs            :  4360
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaInterior46
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2155
+		num normals        :  2155
+		num tangents       :  0
+		num uvs            :  4310
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaInterior21
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2178
+		num normals        :  2178
+		num tangents       :  0
+		num uvs            :  4356
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior30
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1892
+		num normals        :  1892
+		num tangents       :  0
+		num uvs            :  3784
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  Cadru2
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1492
+		num normals        :  1492
+		num tangents       :  0
+		num uvs            :  2984
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  683
+	processing begun of mesh:  ZaExterior26
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1922
+		num normals        :  1922
+		num tangents       :  0
+		num uvs            :  3844
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  DerailleurSpate
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  5949
+		num normals        :  5949
+		num tangents       :  0
+		num uvs            :  11898
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2438
+	processing begun of mesh:  ManetaVitezeSt
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  348
+		num normals        :  348
+		num tangents       :  0
+		num uvs            :  696
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  140
+	processing begun of mesh:  ZaInterior28
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2157
+		num normals        :  2157
+		num tangents       :  0
+		num uvs            :  4314
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior17
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1889
+		num normals        :  1889
+		num tangents       :  0
+		num uvs            :  3778
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior28
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1892
+		num normals        :  1892
+		num tangents       :  0
+		num uvs            :  3784
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaExterior44
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1916
+		num normals        :  1916
+		num tangents       :  0
+		num uvs            :  3832
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  CorpManetaDr
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1388
+		num normals        :  1388
+		num tangents       :  0
+		num uvs            :  2776
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  556
+	processing begun of mesh:  ZaInterior06
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2140
+		num normals        :  2140
+		num tangents       :  0
+		num uvs            :  4280
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaInterior36
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2152
+		num normals        :  2152
+		num tangents       :  0
+		num uvs            :  4304
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior38
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1902
+		num normals        :  1902
+		num tangents       :  0
+		num uvs            :  3804
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  CorpManetaSt
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1388
+		num normals        :  1388
+		num tangents       :  0
+		num uvs            :  2776
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  556
+	processing begun of mesh:  Ventil01
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  349
+		num normals        :  349
+		num tangents       :  0
+		num uvs            :  698
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  140
+	processing begun of mesh:  ZaInterior04
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2154
+		num normals        :  2154
+		num tangents       :  0
+		num uvs            :  4308
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaInterior10
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2151
+		num normals        :  2151
+		num tangents       :  0
+		num uvs            :  4302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaExterior27
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1889
+		num normals        :  1889
+		num tangents       :  0
+		num uvs            :  3778
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaInterior15
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2153
+		num normals        :  2153
+		num tangents       :  0
+		num uvs            :  4306
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  SabotFataS
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1582
+		num normals        :  1582
+		num tangents       :  0
+		num uvs            :  3164
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  648
+	processing begun of mesh:  ZaInterior37
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2159
+		num normals        :  2159
+		num tangents       :  0
+		num uvs            :  4318
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  942
+	processing begun of mesh:  Sa1
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  3048
+		num normals        :  3048
+		num tangents       :  0
+		num uvs            :  6096
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1266
+	processing begun of mesh:  PneuInteriorSpate
+		processing begun of material:  wire_189155097
+		num positions      :  4692
+		num normals        :  4692
+		num tangents       :  0
+		num uvs            :  9384
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1800
+	processing begun of mesh:  RolaLant1
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1536
+		num normals        :  1536
+		num tangents       :  0
+		num uvs            :  3072
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  688
+	processing begun of mesh:  ZaInterior01
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2149
+		num normals        :  2149
+		num tangents       :  0
+		num uvs            :  4298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaExterior36
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1930
+		num normals        :  1930
+		num tangents       :  0
+		num uvs            :  3860
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  832
+	processing begun of mesh:  ZaExterior11
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior42
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1904
+		num normals        :  1904
+		num tangents       :  0
+		num uvs            :  3808
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaInterior02
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2144
+		num normals        :  2144
+		num tangents       :  0
+		num uvs            :  4288
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaInterior31
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2170
+		num normals        :  2170
+		num tangents       :  0
+		num uvs            :  4340
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  ZaExterior12
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  RolaLant2
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1551
+		num normals        :  1551
+		num tangents       :  0
+		num uvs            :  3102
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  688
+	processing begun of mesh:  ZaInterior16
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2174
+		num normals        :  2174
+		num tangents       :  0
+		num uvs            :  4348
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  PneuExteriorSpate
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  2617
+		num normals        :  2617
+		num tangents       :  0
+		num uvs            :  5234
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1080
+	processing begun of mesh:  ZaExterior47
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1896
+		num normals        :  1896
+		num tangents       :  0
+		num uvs            :  3792
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  PedalaDr
+		processing begun of material:  Material__4
+		num positions      :  1295
+		num normals        :  1295
+		num tangents       :  0
+		num uvs            :  2590
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  570
+	processing begun of mesh:  ManetaDr
+		processing begun of material:  Material__4
+		registered as also a user of material:  Material__4
+		num positions      :  2216
+		num normals        :  2216
+		num tangents       :  0
+		num uvs            :  4432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  871
+	processing begun of mesh:  ZaInterior18
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2151
+		num normals        :  2151
+		num tangents       :  0
+		num uvs            :  4302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  FranaSpate
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  6165
+		num normals        :  6165
+		num tangents       :  0
+		num uvs            :  12330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2620
+	processing begun of mesh:  ZaExterior35
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1885
+		num normals        :  1885
+		num tangents       :  0
+		num uvs            :  3770
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaInterior26
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2153
+		num normals        :  2153
+		num tangents       :  0
+		num uvs            :  4306
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior45
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1914
+		num normals        :  1914
+		num tangents       :  0
+		num uvs            :  3828
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  CabluPlatouri
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  252
+		num normals        :  252
+		num tangents       :  0
+		num uvs            :  504
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  110
+	processing begun of mesh:  AxPedalier
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  146
+		num normals        :  146
+		num tangents       :  0
+		num uvs            :  292
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  72
+	processing begun of mesh:  ZaExterior02
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior46
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1908
+		num normals        :  1908
+		num tangents       :  0
+		num uvs            :  3816
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  ZaExterior23
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1912
+		num normals        :  1912
+		num tangents       :  0
+		num uvs            :  3824
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaInterior27
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2158
+		num normals        :  2158
+		num tangents       :  0
+		num uvs            :  4316
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  PneuInteriorFata
+		processing begun of material:  wire_189155097
+		registered as also a user of material:  wire_189155097
+		num positions      :  4696
+		num normals        :  4696
+		num tangents       :  0
+		num uvs            :  9392
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1800
+	processing begun of mesh:  ZaInterior
+		processing begun of material:  wire_134006006
+		num positions      :  2149
+		num normals        :  2149
+		num tangents       :  0
+		num uvs            :  4298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaInterior14
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2146
+		num normals        :  2146
+		num tangents       :  0
+		num uvs            :  4292
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ProtectieManSt
+		processing begun of material:  wire_134006006
+		registered as also a user of material:  wire_134006006
+		num positions      :  1175
+		num normals        :  1175
+		num tangents       :  0
+		num uvs            :  2350
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  480
+	processing begun of mesh:  ZaExterior29
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1916
+		num normals        :  1916
+		num tangents       :  0
+		num uvs            :  3832
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  ZaExterior31
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1904
+		num normals        :  1904
+		num tangents       :  0
+		num uvs            :  3808
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  BidonRosu
+		processing begun of material:  wire_211000000
+		num positions      :  2523
+		num normals        :  2523
+		num tangents       :  0
+		num uvs            :  5046
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1000
+	processing begun of mesh:  ZaExterior32
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1906
+		num normals        :  1906
+		num tangents       :  0
+		num uvs            :  3812
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  ZaExterior15
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1904
+		num normals        :  1904
+		num tangents       :  0
+		num uvs            :  3808
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  832
+	processing begun of mesh:  ZaInterior03
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2136
+		num normals        :  2136
+		num tangents       :  0
+		num uvs            :  4272
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  RoataFata
+		processing begun of material:  wire_186186186
+		num positions      :  30655
+		num normals        :  30655
+		num tangents       :  0
+		num uvs            :  61310
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12850
+	processing begun of mesh:  ClapaRoata01
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  953
+		num normals        :  953
+		num tangents       :  0
+		num uvs            :  1906
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  380
+	processing begun of mesh:  DerrailleurPlatouri
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  6620
+		num normals        :  6620
+		num tangents       :  0
+		num uvs            :  13240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2929
+	processing begun of mesh:  ZaExterior03
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  Ventil
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  353
+		num normals        :  353
+		num tangents       :  0
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  140
+	processing begun of mesh:  ZaInterior47
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2165
+		num normals        :  2165
+		num tangents       :  0
+		num uvs            :  4330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  ZaExterior10
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaInterior29
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2169
+		num normals        :  2169
+		num tangents       :  0
+		num uvs            :  4338
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  942
+	processing begun of mesh:  ZaExterior49
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1908
+		num normals        :  1908
+		num tangents       :  0
+		num uvs            :  3816
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  826
+	processing begun of mesh:  ZaInterior38
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2162
+		num normals        :  2162
+		num tangents       :  0
+		num uvs            :  4324
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  942
+	processing begun of mesh:  ProtectieManDr
+		processing begun of material:  wire_162044044
+		num positions      :  1175
+		num normals        :  1175
+		num tangents       :  0
+		num uvs            :  2350
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  480
+	processing begun of mesh:  Pedale
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  5995
+		num normals        :  5995
+		num tangents       :  0
+		num uvs            :  11990
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  9747
+	processing begun of mesh:  ZaExterior34
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1920
+		num normals        :  1920
+		num tangents       :  0
+		num uvs            :  3840
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  AxGhidon
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  3293
+		num normals        :  3293
+		num tangents       :  0
+		num uvs            :  6586
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1254
+	processing begun of mesh:  ZaInterior48
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2163
+		num normals        :  2163
+		num tangents       :  0
+		num uvs            :  4326
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  948
+	processing begun of mesh:  ZaInterior24
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2137
+		num normals        :  2137
+		num tangents       :  0
+		num uvs            :  4274
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  939
+	processing begun of mesh:  ZaInterior32
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2170
+		num normals        :  2170
+		num tangents       :  0
+		num uvs            :  4340
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior39
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1910
+		num normals        :  1910
+		num tangents       :  0
+		num uvs            :  3820
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaExterior07
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior48
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1885
+		num normals        :  1885
+		num tangents       :  0
+		num uvs            :  3770
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  Ghidon
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  4398
+		num normals        :  4398
+		num tangents       :  0
+		num uvs            :  8796
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1636
+	processing begun of mesh:  ZaExterior24
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1914
+		num normals        :  1914
+		num tangents       :  0
+		num uvs            :  3828
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaInterior22
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2154
+		num normals        :  2154
+		num tangents       :  0
+		num uvs            :  4308
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior04
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1847
+		num normals        :  1847
+		num tangents       :  0
+		num uvs            :  3694
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  800
+	processing begun of mesh:  CabluPlatouriF
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1893
+		num normals        :  1893
+		num tangents       :  0
+		num uvs            :  3786
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  756
+	processing begun of mesh:  ZaInterior25
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2158
+		num normals        :  2158
+		num tangents       :  0
+		num uvs            :  4316
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  941
+	processing begun of mesh:  ManetaVitezeDr
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  345
+		num normals        :  345
+		num tangents       :  0
+		num uvs            :  690
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  140
+	processing begun of mesh:  ZaExterior37
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1900
+		num normals        :  1900
+		num tangents       :  0
+		num uvs            :  3800
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaInterior20
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2182
+		num normals        :  2182
+		num tangents       :  0
+		num uvs            :  4364
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaExterior18
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1881
+		num normals        :  1881
+		num tangents       :  0
+		num uvs            :  3762
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ClapaRoata
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  954
+		num normals        :  954
+		num tangents       :  0
+		num uvs            :  1908
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  380
+	processing begun of mesh:  CapacBGalben
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1913
+		num normals        :  1913
+		num tangents       :  0
+		num uvs            :  3826
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  800
+	processing begun of mesh:  CabluFranaSpateS
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  852
+		num normals        :  852
+		num tangents       :  0
+		num uvs            :  1704
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  340
+	processing begun of mesh:  ZaInterior23
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2151
+		num normals        :  2151
+		num tangents       :  0
+		num uvs            :  4302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  SuportBidonOrizontal
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  3440
+		num normals        :  3440
+		num tangents       :  0
+		num uvs            :  6880
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1466
+	processing begun of mesh:  PedalaSt
+		processing begun of material:  Material__4
+		registered as also a user of material:  Material__4
+		num positions      :  1301
+		num normals        :  1301
+		num tangents       :  0
+		num uvs            :  2602
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  570
+	processing begun of mesh:  ZaInterior30
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2149
+		num normals        :  2149
+		num tangents       :  0
+		num uvs            :  4298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  Furca
+		processing begun of material:  wire_131000000
+		registered as also a user of material:  wire_131000000
+		num positions      :  6834
+		num normals        :  6834
+		num tangents       :  0
+		num uvs            :  13668
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2735
+	processing begun of mesh:  ZaExterior06
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior40
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1910
+		num normals        :  1910
+		num tangents       :  0
+		num uvs            :  3820
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  CabluPinioane
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  282
+		num normals        :  282
+		num tangents       :  0
+		num uvs            :  564
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  120
+	processing begun of mesh:  SuportBidonVertical
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  3431
+		num normals        :  3431
+		num tangents       :  0
+		num uvs            :  6862
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1466
+	processing begun of mesh:  Pinioane
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  8783
+		num normals        :  8783
+		num tangents       :  0
+		num uvs            :  17566
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7802
+	processing begun of mesh:  SabotFataD
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1588
+		num normals        :  1588
+		num tangents       :  0
+		num uvs            :  3176
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  648
+	processing begun of mesh:  ZaInterior11
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2157
+		num normals        :  2157
+		num tangents       :  0
+		num uvs            :  4314
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaInterior09
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2138
+		num normals        :  2138
+		num tangents       :  0
+		num uvs            :  4276
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaInterior35
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2172
+		num normals        :  2172
+		num tangents       :  0
+		num uvs            :  4344
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  RoataSpate
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  31823
+		num normals        :  31823
+		num tangents       :  0
+		num uvs            :  63646
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13508
+	processing begun of mesh:  ZaExterior21
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1888
+		num normals        :  1888
+		num tangents       :  0
+		num uvs            :  3776
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaInterior39
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2133
+		num normals        :  2133
+		num tangents       :  0
+		num uvs            :  4266
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ManetaSt
+		processing begun of material:  Material__4
+		registered as also a user of material:  Material__4
+		num positions      :  2275
+		num normals        :  2275
+		num tangents       :  0
+		num uvs            :  4550
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  871
+	processing begun of mesh:  PneuExteriorFata
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  2615
+		num normals        :  2615
+		num tangents       :  0
+		num uvs            :  5230
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1080
+	processing begun of mesh:  ZaInterior08
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2143
+		num normals        :  2143
+		num tangents       :  0
+		num uvs            :  4286
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaExterior33
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1904
+		num normals        :  1904
+		num tangents       :  0
+		num uvs            :  3808
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  MecPedSt
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  46
+		num normals        :  46
+		num tangents       :  0
+		num uvs            :  92
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  20
+	processing begun of mesh:  SabotSpateS
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1582
+		num normals        :  1582
+		num tangents       :  0
+		num uvs            :  3164
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  648
+	processing begun of mesh:  ZaInterior42
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2162
+		num normals        :  2162
+		num tangents       :  0
+		num uvs            :  4324
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of mesh:  ZaInterior05
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2155
+		num normals        :  2155
+		num tangents       :  0
+		num uvs            :  4310
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  940
+	processing begun of mesh:  ZaInterior07
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2152
+		num normals        :  2152
+		num tangents       :  0
+		num uvs            :  4304
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaExterior08
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1883
+		num normals        :  1883
+		num tangents       :  0
+		num uvs            :  3766
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaExterior19
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1904
+		num normals        :  1904
+		num tangents       :  0
+		num uvs            :  3808
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaInterior44
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2149
+		num normals        :  2149
+		num tangents       :  0
+		num uvs            :  4298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  938
+	processing begun of mesh:  ZaExterior50
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1884
+		num normals        :  1884
+		num tangents       :  0
+		num uvs            :  3768
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaExterior20
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1884
+		num normals        :  1884
+		num tangents       :  0
+		num uvs            :  3768
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaExterior43
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1910
+		num normals        :  1910
+		num tangents       :  0
+		num uvs            :  3820
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  ZaExterior16
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1896
+		num normals        :  1896
+		num tangents       :  0
+		num uvs            :  3792
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  824
+	processing begun of mesh:  ZaExterior14
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1910
+		num normals        :  1910
+		num tangents       :  0
+		num uvs            :  3820
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  828
+	processing begun of mesh:  ZaExterior25
+		processing begun of material:  wire_000000000
+		registered as also a user of material:  wire_000000000
+		num positions      :  1879
+		num normals        :  1879
+		num tangents       :  0
+		num uvs            :  3758
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  ZaInterior33
+		processing begun of material:  wire_196196196
+		registered as also a user of material:  wire_196196196
+		num positions      :  2165
+		num normals        :  2165
+		num tangents       :  0
+		num uvs            :  4330
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  944
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of JSON file started =========
+	writing mesh:  Ghidon2
+	writing mesh:  ZaExterior09
+	writing mesh:  ZaExterior13
+	writing mesh:  ZaInterior50
+	writing mesh:  ZaInterior45
+	writing mesh:  MecPedDr
+	writing mesh:  ZaInterior40
+	writing mesh:  ZaExterior05
+	writing mesh:  SurubJos
+	writing mesh:  ZaExterior01
+	writing mesh:  BidonGalben
+	writing mesh:  ZaInterior19
+	writing mesh:  SurubSus
+	writing mesh:  ZaExterior41
+	writing mesh:  SabotSpateD
+	writing mesh:  ZaInterior41
+	writing mesh:  ZaInterior12
+	writing mesh:  Sa
+	writing mesh:  ZaInterior43
+	writing mesh:  Cadru1
+	writing mesh:  ZaExterior22
+	writing mesh:  CapacBRosu
+	writing mesh:  CabluPinioaneF
+	writing mesh:  ZaInterior17
+	writing mesh:  ZaInterior34
+	writing mesh:  FranaFata
+	writing mesh:  ZaInterior13
+	writing mesh:  ZaExterior
+	writing mesh:  ZaInterior49
+	writing mesh:  ZaInterior46
+	writing mesh:  ZaInterior21
+	writing mesh:  ZaExterior30
+	writing mesh:  Cadru2
+	writing mesh:  ZaExterior26
+	writing mesh:  DerailleurSpate
+	writing mesh:  ManetaVitezeSt
+	writing mesh:  ZaInterior28
+	writing mesh:  ZaExterior17
+	writing mesh:  ZaExterior28
+	writing mesh:  ZaExterior44
+	writing mesh:  CorpManetaDr
+	writing mesh:  ZaInterior06
+	writing mesh:  ZaInterior36
+	writing mesh:  ZaExterior38
+	writing mesh:  CorpManetaSt
+	writing mesh:  Ventil01
+	writing mesh:  ZaInterior04
+	writing mesh:  ZaInterior10
+	writing mesh:  ZaExterior27
+	writing mesh:  ZaInterior15
+	writing mesh:  SabotFataS
+	writing mesh:  ZaInterior37
+	writing mesh:  Sa1
+	writing mesh:  PneuInteriorSpate
+	writing mesh:  RolaLant1
+	writing mesh:  ZaInterior01
+	writing mesh:  ZaExterior36
+	writing mesh:  ZaExterior11
+	writing mesh:  ZaExterior42
+	writing mesh:  ZaInterior02
+	writing mesh:  ZaInterior31
+	writing mesh:  ZaExterior12
+	writing mesh:  RolaLant2
+	writing mesh:  ZaInterior16
+	writing mesh:  PneuExteriorSpate
+	writing mesh:  ZaExterior47
+	writing mesh:  PedalaDr
+	writing mesh:  ManetaDr
+	writing mesh:  ZaInterior18
+	writing mesh:  FranaSpate
+	writing mesh:  ZaExterior35
+	writing mesh:  ZaInterior26
+	writing mesh:  ZaExterior45
+	writing mesh:  CabluPlatouri
+	writing mesh:  AxPedalier
+	writing mesh:  ZaExterior02
+	writing mesh:  ZaExterior46
+	writing mesh:  ZaExterior23
+	writing mesh:  ZaInterior27
+	writing mesh:  PneuInteriorFata
+	writing mesh:  ZaInterior
+	writing mesh:  ZaInterior14
+	writing mesh:  ProtectieManSt
+	writing mesh:  ZaExterior29
+	writing mesh:  ZaExterior31
+	writing mesh:  BidonRosu
+	writing mesh:  ZaExterior32
+	writing mesh:  ZaExterior15
+	writing mesh:  ZaInterior03
+	writing mesh:  RoataFata
+	writing mesh:  ClapaRoata01
+	writing mesh:  DerrailleurPlatouri
+	writing mesh:  ZaExterior03
+	writing mesh:  Ventil
+	writing mesh:  ZaInterior47
+	writing mesh:  ZaExterior10
+	writing mesh:  ZaInterior29
+	writing mesh:  ZaExterior49
+	writing mesh:  ZaInterior38
+	writing mesh:  ProtectieManDr
+	writing mesh:  Pedale
+	writing mesh:  ZaExterior34
+	writing mesh:  AxGhidon
+	writing mesh:  ZaInterior48
+	writing mesh:  ZaInterior24
+	writing mesh:  ZaInterior32
+	writing mesh:  ZaExterior39
+	writing mesh:  ZaExterior07
+	writing mesh:  ZaExterior48
+	writing mesh:  Ghidon
+	writing mesh:  ZaExterior24
+	writing mesh:  ZaInterior22
+	writing mesh:  ZaExterior04
+	writing mesh:  CabluPlatouriF
+	writing mesh:  ZaInterior25
+	writing mesh:  ManetaVitezeDr
+	writing mesh:  ZaExterior37
+	writing mesh:  ZaInterior20
+	writing mesh:  ZaExterior18
+	writing mesh:  ClapaRoata
+	writing mesh:  CapacBGalben
+	writing mesh:  CabluFranaSpateS
+	writing mesh:  ZaInterior23
+	writing mesh:  SuportBidonOrizontal
+	writing mesh:  PedalaSt
+	writing mesh:  ZaInterior30
+	writing mesh:  Furca
+	writing mesh:  ZaExterior06
+	writing mesh:  ZaExterior40
+	writing mesh:  CabluPinioane
+	writing mesh:  SuportBidonVertical
+	writing mesh:  Pinioane
+	writing mesh:  SabotFataD
+	writing mesh:  ZaInterior11
+	writing mesh:  ZaInterior09
+	writing mesh:  ZaInterior35
+	writing mesh:  RoataSpate
+	writing mesh:  ZaExterior21
+	writing mesh:  ZaInterior39
+	writing mesh:  ManetaSt
+	writing mesh:  PneuExteriorFata
+	writing mesh:  ZaInterior08
+	writing mesh:  ZaExterior33
+	writing mesh:  MecPedSt
+	writing mesh:  SabotSpateS
+	writing mesh:  ZaInterior42
+	writing mesh:  ZaInterior05
+	writing mesh:  ZaInterior07
+	writing mesh:  ZaExterior08
+	writing mesh:  ZaExterior19
+	writing mesh:  ZaInterior44
+	writing mesh:  ZaExterior50
+	writing mesh:  ZaExterior20
+	writing mesh:  ZaExterior43
+	writing mesh:  ZaExterior16
+	writing mesh:  ZaExterior14
+	writing mesh:  ZaExterior25
+	writing mesh:  ZaInterior33
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  3 min, 16.4719 secs
